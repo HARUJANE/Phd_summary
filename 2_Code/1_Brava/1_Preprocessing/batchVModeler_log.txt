@@ -105824,3 +105824,1571 @@ D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\4_centerline_60_curvature\0
 1.0
 return value = 0
 
+----
+Mon Dec 22 18:39:46 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:46 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:46 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:46 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:46 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:46 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:46 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:46 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:39:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:33 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:34 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:34 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:35 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:36 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:36 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:36 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:36 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:36 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:37 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:37 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:38 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:38 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:38 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:38 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:42:38 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:43:47 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_L_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_R_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_L_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_R_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_L_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_R_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_L_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_R_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_L_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_R_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_L_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_R_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_L_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:19 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_R_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:19 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_L_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:44:19 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_R_ICA_labeled\
+2.0
+return value = 0
+
+----
+Mon Dec 22 18:45:09 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:09 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:09 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:09 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:09 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:10 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:10 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:10 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:10 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:10 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:10 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:10 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:10 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:10 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:10 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:10 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:39 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:39 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:39 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:40 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:41 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:42 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:42 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:42 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:42 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:42 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:42 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:43 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:43 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:43 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:43 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:45:43 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:15 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:15 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000000.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000000.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:16 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:17 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000001.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000001.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:18 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:19 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000003.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000003.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:19 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:20 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000004.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000004.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:21 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:21 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000006.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000006.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:22 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:23 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000008.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000008.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:24 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:24 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000009.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000009.nii_R_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:25 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_L_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_L_ICA_labeled\
+1.0
+return value = 0
+
+----
+Mon Dec 22 18:46:26 2025
+
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\batchVModeler.exe
+1030
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out\00000010.nii_R_ICA_labeled.txt
+D:\github\Phd_summary\2_Code\1_Brava\1_Preprocessing\curvature\code\curvature\param_5d_L3.txt
+1
+1
+1
+D:\github\Phd_summary\1_Data\2_Nagahama\1_Centerline\test_txt_out_curvature\00000010.nii_R_ICA_labeled\
+1.0
+return value = 0
+
