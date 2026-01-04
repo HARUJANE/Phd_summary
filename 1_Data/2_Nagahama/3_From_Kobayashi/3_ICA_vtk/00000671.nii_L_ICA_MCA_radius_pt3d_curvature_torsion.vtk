@@ -1,0 +1,19 @@
+# vtk DataFile Version 2.0
+00000671.nii_L_ICA_MCA_radius_pt3d_curvature_torsion
+ASCII
+DATASET POLYDATA
+POINTS 1 float
+113.821 78.6067 38.8667
+LINES 1 2
+1 0
+
+POINT_DATA 1
+SCALARS radius float
+LOOKUP_TABLE default
+1.15964
+SCALARS curvature float
+LOOKUP_TABLE default
+0.161034
+SCALARS torsion float
+LOOKUP_TABLE default
+-0.0448959
